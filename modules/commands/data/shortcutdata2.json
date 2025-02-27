@@ -1,0 +1,54 @@
+[
+    {
+        "threadID": "7521002927997636",
+        "shortcuts": [
+            {
+                "input": "🥰",
+                "output": "Cc",
+                "uri": "vdanime"
+            }
+        ]
+    },
+    {
+        "threadID": "9002588643144317",
+        "shortcuts": [
+            {
+                "input_type": "join",
+                "output": "{name} cút ra ngoài",
+                "uri": "vdgai"
+            }
+        ]
+    },
+    {
+        "threadID": "8867281286641611",
+        "shortcuts": [
+            {
+                "input": "succaconline",
+                "output": "dua buoi day",
+                "uri": "https://files.catbox.moe/d4jfjz.jpg"
+            },
+            {
+                "output": "Tổ cha m tag",
+                "uri": "https://files.catbox.moe/5ct1wv.jpg",
+                "input_type": "tag",
+                "tag_id": "61568252515454"
+            },
+            {
+                "input_type": "autosend",
+                "output": "Happy birthday Gấu đẹp zai",
+                "hours": "00:00:00",
+                "uri": "s"
+            }
+        ]
+    },
+    {
+        "threadID": "9202703129805345",
+        "shortcuts": [
+            {
+                "input": "😀",
+                "output": "🏧🏧🏧🏧",
+                "uri": "vdgai"
+            }
+        ]
+    }
+]
